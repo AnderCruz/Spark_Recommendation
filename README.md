@@ -1,4 +1,4 @@
-# Spark_recomendation
+# Spark_recommendation
 Using Spark to recommend music from Spotify 
 Our team received a request to improve the recommendation system on our site, Amantes da Música. This site has a music recommender that uses only the music genre to make recommendations, but they are not pleasing the visitors.
 
